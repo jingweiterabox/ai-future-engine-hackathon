@@ -1,0 +1,14 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 依赖（本项目使用CDN，无本地依赖）
+node_modules/
+
+# 环境变量（如果有）
+.env
+.env.local
